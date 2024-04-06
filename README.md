@@ -7,6 +7,11 @@
 
 <img width="496" alt="IA" src="https://github.com/cristiancfe/curriculo/assets/32318124/693d8743-3029-4e9a-a3ab-68e0c5b5a6f9">
 
+## Accredited Software Testing Fundamentals Certification
+<img width="450" alt="Accredited Software Testing Fundamentals Certification" src="https://github.com/cristiancfe/curriculo/assets/32318124/67303c31-6afc-4700-9471-4840e41af4c0">
+
+
+
 ## Meta -  Certificação para 2024
 
 <img width="181" alt="CTFL1" src="https://github.com/cristiancfe/curriculo/assets/32318124/19d233f1-29ec-4563-92fc-411dec2755f6">
