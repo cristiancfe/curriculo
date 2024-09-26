@@ -1,51 +1,38 @@
-
 body {
     font-family: Arial, sans-serif;
-    padding: 0;
+    line-height: 1.6;
+    margin: 20px;
     background-color: antiquewhite;
-    margin-left:50px;
-    margin-right:50px;
-    
 }
-header {
-    background-color: antiquewhite
-    color(srgb red green blue);
-    text-align: center;
-    font-size: 24px;
-    font-family: 'Hind Siliguri', sans-serif;
-}
-header h3{
-gap:0;
-}
-header img {
-    width: 10px;
-}
-.container {
-    max-width: 800px;
-    margin-top: auto;
-    margin: auto;
-    padding: 20px;
-    font-size: 14px;
-}
-h1 {
+h1, h2, h3 {
     color: #333;
 }
-a {
-    text-decoration: none;
-    color: #0074D9;
+h1 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-top: 0;
 }
 a img {
     width: 38px;
     height: 48px;
+    margin-top: 10px;
 }
-
-@media (max-width: 596px){
-    .container {
-     width: 350px;
-     font-size: 16px;
-    }
-    .header {
-        width: 350px;
-        font-size: 16px; 
-    }
-   }
+.section {
+    margin-bottom: 20px;
+    background: white;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+.single-column {
+    columns: 1;
+}
+.section-skills ul {
+    columns: 2;
+    column-gap: 40px; /* Espaço entre as colunas */
+}
